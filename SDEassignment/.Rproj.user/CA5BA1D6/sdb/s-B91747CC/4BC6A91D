@@ -1,14 +1,14 @@
 {
     "contents" : "# A comment: this is a sample script.\ny=c(12,15,28,17,18)\nx=c(22,39,50,25,18)\nmean(y)\nmean(x)\nplot(x,y)\n\n",
     "created" : 1429849180585.000,
-    "dirty" : true,
-    "encoding" : "",
+    "dirty" : false,
+    "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "1283036056",
     "id" : "4BC6A91D",
-    "lastKnownWriteTime" : 23362624937984116,
-    "path" : null,
-    "project_path" : null,
+    "lastKnownWriteTime" : 1429947057,
+    "path" : "~/SDEassignment/R/SDEassignment.R",
+    "project_path" : "R/SDEassignment.R",
     "properties" : {
         "tempName" : "Untitled1"
     },
