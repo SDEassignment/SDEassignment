@@ -4,5 +4,4 @@ x=c(22,39,50,25,18)
 mean(y)
 mean(x)
 plot(x,y)
-
-
+plot(y,x)
